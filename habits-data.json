@@ -1,0 +1,38 @@
+{
+  "userProfile": {
+    "name": "User",
+    "joinDate": "2025-11-09T06:55:54.346Z",
+    "totalHabitsCompleted": 0,
+    "totalHabitsCreated": 0
+  },
+  "habits": [
+    {
+      "id": "1762671354350",
+      "name": "Minum Air 8 Gelas",
+      "targetFrequency": 7,
+      "completions": [],
+      "createdAt": "2025-11-09T06:55:54.350Z"
+    },
+    {
+      "id": "1762671354352",
+      "name": "Olahraga 30 Menit",
+      "targetFrequency": 5,
+      "completions": [],
+      "createdAt": "2025-11-09T06:55:54.352Z"
+    },
+    {
+      "id": "1762671354353",
+      "name": "Membaca 20 Halaman",
+      "targetFrequency": 4,
+      "completions": [],
+      "createdAt": "2025-11-09T06:55:54.353Z"
+    },
+    {
+      "id": "1762671354353",
+      "name": "Meditasi 10 Menit",
+      "targetFrequency": 6,
+      "completions": [],
+      "createdAt": "2025-11-09T06:55:54.353Z"
+    }
+  ]
+}
